@@ -1,6 +1,6 @@
 <!-- Animated Header -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=E5C07B&center=true&vCenter=true&width=940&lines=Hey+%F0%9F%91%8B+I'm+Hoang+%7C+EurusDevSec;DevSecOps + & + Cloud-Native + Engineer + 🛡️+%F0%9F%92%BB;Building+Scalable+Applications+%F0%9F%9A%80;Open+Source+Enthusiast+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.vercel.app?font=Fira+Code&size=32&duration=2800&pause=2000&color=E5C07B&center=true&vCenter=true&width=940&lines=Hey+%F0%9F%91%8B+I'm+Hoang+%7C+EurusDevSec;DevSecOps + %26 + Cloud-Native + Engineer + 🛡️+%F0%9F%92%BB;Building+Scalable+Applications+%F0%9F%9A%80;Open+Source+Enthusiast+%E2%9C%A8" alt="Typing SVG" />
 </div>
 
 ###
